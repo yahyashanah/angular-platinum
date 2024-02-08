@@ -1,0 +1,22 @@
+.container {
+    max-width: 900px;
+    margin: 50px;
+  }
+  
+  table {
+    width: 120%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid white;
+    text-align: left;
+    padding: 12px;
+  }
+  
+  th {
+    background-color: whitesmoke;
+  }
+  
+  
